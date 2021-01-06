@@ -1,0 +1,98 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.forumlogo {
+	
+	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	display:block;
+	
+	
+}
+
+.aramaform{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+	
+}
+
+.aramaform2{
+margin:auto;
+	margin-top:10px;
+	display:inline-block;
+	
+}
+
+.arama{
+	
+text-align:center;
+
+}
+
+.aramawrapper {
+	
+	text-align:center;
+	
+}
+
+
+.buton{
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	height:60px;
+	
+}
+
+
+.linkfooter {
+	
+color:black;
+text-decoration:none;	
+	
+}
+
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
+.ortala{
+	
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.imza{
+	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+}
